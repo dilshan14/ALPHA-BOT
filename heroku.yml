@@ -1,6 +1,6 @@
-build: 
+build:DILA 
   docker: 
-      worker: /Dockerfile
+      worker: /DOCK DILA AND CHATHURA
 run:
    worker: npm start
 
